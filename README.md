@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-See [Jekyll Installation documentation](https://jekyllrb.com/docs/installation/)
+See [Jekyll Installation documentation](https://jekyllrb.com/docs/installation/) >>>(Click the Link)
 
 `gem install jekyll bundler`
 
